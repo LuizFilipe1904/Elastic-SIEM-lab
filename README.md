@@ -1,1 +1,1 @@
-# Elastic-SIEM-lab
+# Elastic SIEM Lab
