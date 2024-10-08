@@ -1,7 +1,7 @@
 <h1>Elastic SIEM Lab</h1>
 
 <h2>Description</h2>
-Settiing up a home lab for Elastic Stack Security Information and Event Management (SIEM) using the Elastic Web portal and Kali Linux VM. Generating security events on the kali VM, setting up an agent to forward data to the SIEM, and query analyzing the logs in the SIEM.
+Setting up a home lab for Elastic Stack Security Information and Event Management (SIEM) using the Elastic Web portal and Kali Linux VM. Generating security events on the kali VM, setting up an agent to forward data to the SIEM, and query analyzing the logs in the SIEM.
 <br />
 
 
